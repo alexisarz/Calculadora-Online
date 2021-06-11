@@ -1,13 +1,16 @@
 * {
     margin: 0px;
     padding: 0px;
-    background-color: ;
+    background-color: #1a3d22;
+
+    
+    
 }
 
 
 .calContainer {
     margin: auto;
-    width: 35%;
+    width: 30%;
     height: 500px;
     margin-top: 60px;
     
@@ -87,3 +90,31 @@ form {
 .btnEq:hover {
     background: rgb(0, 103, 221);
 }
+
+
+
+
+/*-------------RESPONSIVE-------------*/
+
+
+@media (max-width: 1024px){
+    .calContainer{
+        width: 40%;
+        
+    }
+}
+
+@media (max-width: 768px){
+    .calContainer{
+        width: 50%;
+        
+    }
+}
+
+@media (max-width: 540px){
+    .calContainer{
+        width: 90%;
+        
+    }
+}
+

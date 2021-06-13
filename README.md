@@ -1,1 +1,1 @@
-Link: https://alexisarz.github.io/Calculadora-Online/index.html
+Link: https://alexisarz.github.io/Calculadora-Online
